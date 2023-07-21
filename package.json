@@ -23,7 +23,8 @@
   },
   "dependencies": {
     "@auth/core": "latest",
-    "@auth/sveltekit": "latest"
+    "@auth/sveltekit": "latest",
+    "@sveltejs/adapter-cloudflare": "^2.3.1"
   },
   "type": "module"
 }
